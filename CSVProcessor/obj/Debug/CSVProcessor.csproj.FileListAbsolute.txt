@@ -1,0 +1,8 @@
+c:\users\xtomim\documents\visual studio 2015\Projects\CSVProcessor\CSVProcessor\bin\Debug\CSVProcessor.exe.config
+c:\users\xtomim\documents\visual studio 2015\Projects\CSVProcessor\CSVProcessor\bin\Debug\CSVProcessor.exe
+c:\users\xtomim\documents\visual studio 2015\Projects\CSVProcessor\CSVProcessor\bin\Debug\CSVProcessor.pdb
+c:\users\xtomim\documents\visual studio 2015\Projects\CSVProcessor\CSVProcessor\bin\Debug\FileHelpers.dll
+c:\users\xtomim\documents\visual studio 2015\Projects\CSVProcessor\CSVProcessor\bin\Debug\FileHelpers.xml
+c:\users\xtomim\documents\visual studio 2015\Projects\CSVProcessor\CSVProcessor\obj\Debug\CSVProcessor.csprojResolveAssemblyReference.cache
+c:\users\xtomim\documents\visual studio 2015\Projects\CSVProcessor\CSVProcessor\obj\Debug\CSVProcessor.exe
+c:\users\xtomim\documents\visual studio 2015\Projects\CSVProcessor\CSVProcessor\obj\Debug\CSVProcessor.pdb
